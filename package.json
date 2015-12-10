@@ -23,5 +23,6 @@
   "repository": {
     "type": "git",
     "url": "git@gitlab.alibaba-inc.com:tb/midway.git"
-  }
+  },
+  "lisence": "MIT"
 }
